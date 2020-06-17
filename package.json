@@ -1,0 +1,12 @@
+{
+  "name": "bootstrap-travelocyinn",
+  "version": "1.0.0",
+  "description": "web app with bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riandra Alkautsar",
+  "license": "ISC"
+}
